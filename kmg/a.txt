@@ -1,0 +1,8 @@
+$ git init
+$ git remote add origin https://github.com/devJWL/devJWL-Sparta_1-week_10.git
+$ git branch -M main
+$ git pull origin main
+파일 수정
+$ git add .
+$ git commit -m "커밋 메시지"
+$ git push origin main
